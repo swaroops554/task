@@ -3,3 +3,6 @@ Hi Welcome
 Python
 Java
 c++
+
+Fortran
+Pascal
